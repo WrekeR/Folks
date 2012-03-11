@@ -1,0 +1,26 @@
+###
+# Folks Dialog Configuration File
+###
+# Any Dialog goes in here
+# Sample:
+#
+# lorem:
+#   text: |
+#     Lorem ipsum dolor sit amet.
+#   awnsers:
+#     0:
+#       title: Yeap.
+#       text: |
+#         Nibh brute vis ei. Laudem
+#         dissentiet duo ut, pro choro
+#         graece propriae at.
+#       awnsers:
+#         0:
+#           title: Tell me a bit more
+#           text: |
+#             Eu consul quidam concludaturque
+#             duo, eu usu posse eirmod labitur.
+#         1:
+#           title: Ehhm What?
+#           text: |
+#             Nibh brute vis ei.

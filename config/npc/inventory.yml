@@ -1,0 +1,14 @@
+###
+# Folks Inventory Configuration File
+###
+# Any Inventory goes in here
+# Sample:
+# inventory_id:
+#   - id: item_id
+#     name: Stone
+#     amount: 10
+#     costs: 10
+#   - id: item_id2
+#     name: Wood
+#     amount: 0
+#     costs: 20

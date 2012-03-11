@@ -1,0 +1,13 @@
+###
+# Folks NpcType Configuration File
+###
+# Defines all NpcTypes
+# Sample:
+#
+# type_id:
+#   name: Smith
+#   skills:
+#     - id: Invulnerable
+#     - id: Trading
+#       inventory: inventory_id
+#   entityclass: 11

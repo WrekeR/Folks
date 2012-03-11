@@ -1,0 +1,41 @@
+###
+# Folks Default Language File
+###
+# The default language pack for Folks
+# DO NOT DELETE NODES!
+greetings:
+  - "Hello."
+  - "Greetings!"
+  - "Hi"
+intros:
+  - "I am"
+  - "My name is"
+  - "You're talking with"
+requests:
+  - "How can I help you?"
+  - "Got the best goods in this area!"
+offers:
+  - "However, my offers:"
+  - "I'm selling the following:"
+warnings:
+  - "Get away!"
+  - "You wont do this twice!"
+notrader: "You're not near a Trader"
+bought: "You've bought the following:"
+sold: "You've sold the following:"
+errorarg: "Wrong Input"
+nomoney: "You don't have enough money"
+noitems: "The following is sold-out:"
+balance: "Balance:"
+newbalance: "New Balance:"
+send: "sent to"
+received: "received from"
+repaired: "Ausruestung wurde repariert"
+noequipdmg: "Nothing to repair."
+buy: "Buy"
+sell: "Sell"
+close: "Close this window"
+trade: "Trade"
+heal: "Heal"
+repair: "Repair"
+talk: "Talk"

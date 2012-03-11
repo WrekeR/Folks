@@ -1,0 +1,41 @@
+###
+# Folks German Language File
+###
+# German translation
+greetings:
+  - "Seid gegruesst!"
+  - "Seid Willkommen!"
+  - "Hallo."
+  - "Guten Tag."
+  - "Ein schoener Tag, nicht wahr?"
+  - "Welch ein Wetter..."
+intros:
+  - "Ich bin"
+  - "Mein Name ist"
+  - "Ihr sprecht mit"
+requests:
+  - "Womit kann ich dir helfen?"
+  - "Ich habe die besten Waren der Gegend!"
+  - "Ihr seid mir sympatisch."
+  - "Nur nicht so zaghaft... Ich beisse nicht."
+offers:
+  - "Nun, meine Angebote:"
+  - "Ich verkaufe folgendes:"
+  - "Ich habe das folgende auf Lager:"
+  - "Ich mache euch ein paar Angebote."
+warnings:
+  - "Verschwinde du Rabauke!"
+  - "Das wagt ihr kein zweites Mal!"
+  - "Das werdet ihr mir buessen!"
+notrader: "Du bist nicht in der Naehe eines Haendlers"
+bought: "Du hast folgendes gekauft:"
+sold: "Du hast folgendes verkauft:"
+errorarg: "Falsche Eingabe"
+nomoney: "Du hast nicht genuegend Geld"
+noitems: "Die folgende ist leider ausverkauft:"
+balance: "Kontostand:"
+newbalance: "Neuer Kontostand:"
+send: "gesendet an"
+received: "empfangen von"
+repaired: "Ausruestung wurde repariert"
+noequipdmg: "Makellose Ausruestung. Da gibt es nichts zu reparieren"

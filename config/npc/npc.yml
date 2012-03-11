@@ -1,0 +1,14 @@
+###
+# Folks Npc Configuration File
+###
+# Defines all Npcs
+# Sample:
+#
+# npc_id:
+#   name: Oswald
+#   location:
+#     world: world_name
+#     x: 0
+#     y: 0
+#     z: 0
+#   type: type_id

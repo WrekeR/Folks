@@ -1,0 +1,32 @@
+name: Folks
+main: com.thinkamajig.folks.Folks
+version: 0.0.5
+author: smonti
+description: enables simple trading
+commands:
+  buy:
+    description: Used to buy a Item.
+    aliases: k
+    usage: /<command> [0-4] [amount]
+  sell:
+    description: Used to sell a Item.
+    aliases: vk
+    usage: /<command> [0-4] [amount]
+  balance:
+    description: Used to get your balance.
+    aliases: b
+    usage: /<command>
+  send:
+    description: Used to send money to another Player.
+    aliases: s
+    usage: /<command> [playername] [amount]
+  repair:
+    description: Used to repair equipment.
+    aliases: r
+    usage: /<command> [tools/armor/all]
+  getpos:
+    description: Used to repair equipment.
+  tppos:
+    description: Used to repair equipment.
+  spawn:
+    description: Used to repair equipment.
